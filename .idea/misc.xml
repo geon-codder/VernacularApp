@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/drawable/bggradient.xml" value="0.1255" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/drawable/ic_sharp_horizontal_rule_24.xml" value="0.1275" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_berbicara4.xml" value="0.2759282970550576" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_berbicara5.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_berbicara6.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_biodata_developer.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_cara_penggunaan_aplikasi.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_complete_bio.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_game.xml" value="0.33" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_kelas4.xml" value="0.33" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_latihan_soal.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_latihan_soal4.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_latihan_soal5.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_membaca.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_membaca4.xml" value="0.33" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_membaca5.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_menulis.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_menulis4.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_menyimak4.xml" value="0.33" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_profil.xml" value="0.22" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_register.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_reset_password.xml" value="0.22" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_sub_bab4.xml" value="0.22" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_sub_bab5.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/ZhyskaApp/app/src/main/res/layout/activity_sub_bab6.xml" value="0.1925925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

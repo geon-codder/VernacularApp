@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844776818325",
+    "project_id": "aplikasi-bahasa-daerah",
+    "storage_bucket": "aplikasi-bahasa-daerah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844776818325:android:a1a5a6a4bb652d6a86fd9c",
+        "android_client_info": {
+          "package_name": "com.geco.zhyskaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844776818325-m9thor0mka2uhp21qgtduk0cq9erjd8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCIrO9eAYF1Ho-stPQaV_l29Sb0GvJjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844776818325-m9thor0mka2uhp21qgtduk0cq9erjd8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
